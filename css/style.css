@@ -9,9 +9,7 @@ body, html {
 }
 
 .container, h1 {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 20px;
+  display: flex;
   width: 80%;
   max-width: 600px;
   min-width: 400px;
