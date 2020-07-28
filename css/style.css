@@ -51,5 +51,7 @@ img {
 }
 
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
-
+.column {
+  display: grid;
+}
 /* create your tile classes! we recommend .small .med .large */
